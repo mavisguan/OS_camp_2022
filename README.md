@@ -1,2 +1,12 @@
-# OS_camp_2022
-Open-source OS training camp 2022 - Journal
+## 2022开源操作系统训练营 - 学习进度记录
+
+### Week 0 （11.1~11.6）
+- [x] 配置Rust环境
+- 由于学校课程事务较多，学习进度暂缓一周
+
+### Week 1 （11.7~11.13）
+- [ ] Rustlings 
+
+### Week 1 （11.7~11.13）
+
+### Week 1 （11.7~11.13）
